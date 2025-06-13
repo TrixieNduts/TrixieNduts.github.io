@@ -1,6 +1,6 @@
 ---
 title: "Posts by labs"
-layout: post
+layout: posts
 permalink: /labs/
 author_profile: true
 ---
