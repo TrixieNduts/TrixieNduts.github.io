@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
+title: "contacts"
+permalink: /contacts/
 layout: posts
 author_profile: true
 ---
