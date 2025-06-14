@@ -76,6 +76,35 @@ After I did task 4 it led me to the section 3 answer to the asked question about
 
 Lab 3
 
+[This is an external link to tryhackme.com](https://tryhackme.com/room/introwebapplicationsecurity)
+
+WEB APPLICATION SECURITY
+
+This modules I learnt about web applications databases and servers.
+
+![image](https://github.com/user-attachments/assets/30528016-4e5b-47b4-9c71-3df2fe246d51)
+
+Section 2
+
+This section I learned the security risks related to weak password encryptions, authentication, broken access and code injections to websites.
+
+![image](https://github.com/user-attachments/assets/54e5e4ed-4cca-47fd-8e71-1f2fdf4d9f18)
+
+![image](https://github.com/user-attachments/assets/bdb1c0a7-611c-4e58-ab29-6a63c5b6ac24)
+
+Section 3
+
+In this section I was tasked to identify the user who made inventory changes and revert them back to keep the company from getting loses.
+
+![image](https://github.com/user-attachments/assets/cb8b639f-6408-4805-b5d0-f1112d5e4f65)
+
+![image](https://github.com/user-attachments/assets/5b5dd9bd-53e5-46e7-ae00-497e57c1c6f3)
+
+
+![image](https://github.com/user-attachments/assets/71f6b4ae-776c-472a-b998-4e7763f35442)
+
+
+
 
 
 
