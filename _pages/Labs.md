@@ -1,6 +1,6 @@
 ---
 title: "Labs"
-layout : posts-labs
+layout : posts
 permalink: /Labs/
 ---
 Lab 1
