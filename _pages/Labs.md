@@ -30,10 +30,35 @@ Lab 3
 
 [This is an external link to tryhackme.com](https://tryhackme.com/room/offensivesecurityintro)
 
-Lab 4
+![image](https://github.com/user-attachments/assets/d5fb1731-2585-4499-9ccd-5e7758836e75)
 
-[This is an external link to tryhackme.com](https://tryhackme.com/room/dnsindetail)
+OFFENSIVE SECURITY
 
-Lab 5
+This module was all about hacking a bank, using Gobuster to brute-force the banks website.
 
-[This is an external link to tryhackme.com](https://tryhackme.com/room/introwebapplicationsecurity)
+ Step 2 was to try and view the worldlist.txt file
+ 
+![image](https://github.com/user-attachments/assets/9ae13345-d636-4278-ae4a-0467a4e19255)
+
+Step 3 This set I was supposed to get the bank’s secrete page for transfer. 
+
+![image](https://github.com/user-attachments/assets/599f1e53-e167-4c95-9a70-ed7a97c9dfd1)
+
+Step 4
+
+Next step I was supposed to transfer $2000 to my account
+
+![image](https://github.com/user-attachments/assets/6f44253e-3f38-48d2-9fd7-feef1e4b9bcd)
+
+![image](https://github.com/user-attachments/assets/bab0d91f-d603-457b-acc4-4ad3497ea8ba)
+
+
+
+
+
+
+
+
+
+
+
