@@ -1,5 +1,5 @@
 ---
-title: "Posts by Labs"
+title: "Labs"
 permalink: /Labs/
 ---
 lab 1
