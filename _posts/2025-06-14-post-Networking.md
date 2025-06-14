@@ -29,5 +29,7 @@ Star	Ring
 Mesh	Tree
 Hybrid	Daisy Chain
 
+Networking Models
+Two networking models describe the communication and transfer of data from one host to another, called ISO/OSI model and the TCP/IP model. This is a simplified representation of the so-called layers representing transferred Bits in readable contents for us.
 ![image](https://github.com/user-attachments/assets/2a1fafd5-e22a-4627-9d0c-a13861179c0e)
 
