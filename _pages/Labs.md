@@ -1,6 +1,6 @@
 ---
-title: "Posts by labs"
+title: "Posts by Labs"
 layout: posts
-permalink: /labs/
+permalink: /Labs/
 author_profile: true
 ---
