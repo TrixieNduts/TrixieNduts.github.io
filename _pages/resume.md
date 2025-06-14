@@ -14,9 +14,13 @@ Innovative IT Engineering Technician with strong expertise in network management
 EDUCATION AND ACADEMIC QUALIFICATION
  
 JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY
+
 Cisco certified Network Associate (CCNA) | March 2022 - January 2023
+
 CCNA 1 | CCNA 2 | CCNA 3
+
 Nairobi, Kenya.
+
 PIONEER INTERNATIONAL UNIVERSITY
 Diploma in Information Technology | 2017 January - 2019 July
 Muranga road Nairobi, Kenya.
