@@ -1,5 +1,5 @@
 ---
-title: "Beatrice Nduta Portfolio"
+title: "Linux fundamentals"
 date: 2025-06-14
 categories:
   - blog
@@ -8,22 +8,23 @@ tags:
   - Fundamentals
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Linux Structure
+Linux, as you might already know, is an operating system used for personal computers, servers, and even mobile devices. However, Linux stands as a fundamental pillar in cybersecurity, renowned for its robustness, flexibility, and open-source nature. In this section we are going to cover the Linux structure, history, philosophy, architecture, and file system hierarchy—essential knowledge for any cybersecurity professional. You can think of this as your first driving lesson for a new car, getting a basic understanding of the vehicle, what it consists of, and why it is the way it currently is.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To begin, let's define what Linux is. Linux is an operating system, just like Windows, macOS, iOS, or Android. An operating system (OS) is software that manages all the hardware resources of a computer, facilitating communication between software applications and hardware components. Unlike some other operating systems, Linux comes in many different distributions—often called "distros"—which are versions of Linux tailored to various needs and preferences.
 
-Jekyll also offers powerful support for code snippets:
+What to learn in this module.
+1 .Linux structure
+2. Using the shell
+3. Navigating the Linux operating system
+4. Working with files and directories
+5. Linux administration
+6. Service management
+7. Permissions management
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+![image](https://github.com/user-attachments/assets/6d21a342-bf0f-4613-983e-d356f445179e)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Check out the for more info on how to get the most out of linux.
+linux Fundamentals: https://academy.hackthebox.com/achievement/1917351/18
+
