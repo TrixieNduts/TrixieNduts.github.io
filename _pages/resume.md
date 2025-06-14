@@ -86,7 +86,7 @@ Duties and responsibilitie
 •	Enhanced communication infrastructure by configuring a well-planned structured data cabling system.
 
 •	Successfully diagnosed and fixed connectivity problems.
-\
+
 •	Ensured optimal functionality of computer systems.
 
 •	Successfully executed hardware and software installations.
