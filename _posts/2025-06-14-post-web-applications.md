@@ -1,5 +1,5 @@
 ---
-title: "Post: web application"
+title: "Post: web-application"
 categories:
   - Blog
 tags:
