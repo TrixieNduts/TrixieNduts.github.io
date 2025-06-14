@@ -1,4 +1,8 @@
 main:
+  - title: "Home"
+    url: /home/
+  - title: "Resume"
+    url: /resume/
   - title: "Projects"
     url: /Projects/
   - title: "Labs"
