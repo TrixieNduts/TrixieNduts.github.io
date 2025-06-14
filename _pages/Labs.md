@@ -1,7 +1,7 @@
 ---
 title: "Posts by labs"
 permalink: /Labs/
-author_profile: true
+
 ---
 Lab 1
 
