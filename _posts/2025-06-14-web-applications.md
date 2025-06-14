@@ -1,10 +1,10 @@
 ---
-title: "Post: Web App"
+title: "Post: link"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
+  - Web
+  - Applications
 link: https://academy.hackthebox.com/module/75/section/719
 ---
 This is a link to my web application finished project.
