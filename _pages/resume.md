@@ -52,28 +52,49 @@ NETWORK ENGINEER AND SUPPORT INTERN
 May 2024 – To date
 Duties and responsibilities
 •	Installing, configuring, and maintaining network equipment including routers, switches, and firewalls in diverse client environments.
+
 •	Engaging in continuous learning to stay abreast of emerging network technologies and best practices, enhancing service offerings.
+
 •	Conducting site surveys to evaluate networking requirements and determine optimal equipment placement for coverage and performance.
+
 •	Addressing technical queries and concerns, delivering exceptional customer service and fostering positive relationships with clients.
+
 •	Fiber optics deployment.
+
 •	Troubleshooting connectivity issues, restoring internet and network access quickly and efficiently.
+
 •	Engaging with customers to provide accurate quotes and turnaround time estimates.
+
 •	Successfully diagnosing and resolving hardware, software and application faults to maintain stability.
+
 •	Establishing, repairing and optimizing networks by installing wiring, cabling and devices.
 
 KENYAWEB SOLUTIONS
+
 IT SUPPORT TECHNICIAN INTERN
+
 December 2023 - March 2024.
+
 Duties and responsibilitie
+
 •	Successfully executed domain registration and renewal procedures, while efficiently handling technical queries.
+
 •	Efficiently handled the setup, troubleshooting, and management of email addresses across multiple mail servers and clients.
+
 •	Enhanced communication infrastructure by configuring a well-planned structured data cabling system.
+
 •	Successfully diagnosed and fixed connectivity problems.
+\
 •	Ensured optimal functionality of computer systems.
+
 •	Successfully executed hardware and software installations.
+
 •	Consistently identified and fixed printer malfunctions.
+
 •	Handled incoming calls and addressed client inquiries through email.
+
 •	Delivered remote technical assistance to staff, guiding through problem resolution steps efficiently.
+
 •	Responded promptly to support tickets, prioritising tasks based on urgency and impact.
 
 
