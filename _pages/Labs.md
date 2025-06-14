@@ -4,7 +4,7 @@ permalink: /Labs/
 ---
 Lab 1
 
-[This is an external link to tryhackme.com](https://tryhackme.com/room/introwebapplicationsecurity)
+[This is an external link to tryhackme.com/room/introwebapplicationsecurity](https://tryhackme.com/room/introwebapplicationsecurity)
 
 Lab 2
 
