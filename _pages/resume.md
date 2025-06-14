@@ -152,15 +152,25 @@ Duties and responsibilities
 
 
 INDUSTRIAL AND SOFT SKILLS
+
 1.	Networking.
+
 2.	LAN and WAN administration.
+	
 3.	Hardware troubleshooting.
+	
 4.	Domain name systems.
+	
 5.	Fiber optics.
+	
 6.	Cashiering/invoicing.
+	
 7.	Interpersonal skills.
+	
 8.	Good communication skills.
+	
 9.	Team player.
+	
 10.	Self-driven.
 
 
@@ -168,19 +178,32 @@ INDUSTRIAL AND SOFT SKILLS
 REFEREES
  
 Paul kagiri
+
 Network Operations Manager. 
+
 Mawingu Networks. 
+
 Phone: 0713 735675
+
 Email: Paul.kagiri@mawingu.co
+
 Caren Nangami,
+
 ICT manager
+
 Kenyaweb solutions. 
+
 Tel: +254 724 767391
+
 Email:caren.nangami@kenyaweb.com
 
 Mrs. Rita Miriti
+
 Senior Accountant
+
 Roto Moulder Limited
+
 TEL: +254 703-568-123
+
 Email: acc2@rotomoulders.com
 
