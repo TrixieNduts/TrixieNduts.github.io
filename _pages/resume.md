@@ -3,8 +3,11 @@ permalink: /resume/
 title: "Resume"
 ---
 CURRICULUM VITAE
+
 PERSONAL INFORMATION
+
 NAME: BEATRICE NDUTA NGATHO
+
 Tel: 254-725726687| Email: annabeat08@gmail.com
 
 Innovative IT Engineering Technician with strong expertise in network management, system troubleshooting, and hardware installation. Demonstrates exceptional problem-solving skills and proactive approach to identifying and resolving technical issues. Delivers impactful IT solutions that enhance operational efficiency and ensure seamless technology integration. Committed to continuous learning and adapting to emerging technologies to drive business success.
