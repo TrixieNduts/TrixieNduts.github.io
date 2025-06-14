@@ -5,7 +5,7 @@ categories:
 tags:
   - Web
   - Applications
-link: https://academy.hackthebox.com/module/75/section/719
+link: https://academy.hackthebox.com/achievement/1917351/75
 ---
 This is a link to my web application finished project.
 
