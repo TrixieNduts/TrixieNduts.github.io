@@ -1,7 +1,10 @@
 ---
-title: "contacts"
-permalink: /contacts/
+permalink: /about/
+title: "About"
+---
 
 email: annabeat08@gmail.com
+
 contacts: 0725 726 687
+
 linkedin: nkedin.com/in/beatrice-nduta-b928a12b8/
