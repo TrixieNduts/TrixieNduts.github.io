@@ -1,7 +1,8 @@
 ---
-title: "Labs"
-layout : posts
+title: "Posts by labs"
+layout: posts
 permalink: /Labs/
+author_profile: true
 ---
 Lab 1
 
