@@ -22,21 +22,33 @@ CCNA 1 | CCNA 2 | CCNA 3
 Nairobi, Kenya.
 
 PIONEER INTERNATIONAL UNIVERSITY
+
 Diploma in Information Technology | 2017 January - 2019 July
+
 Muranga road Nairobi, Kenya.
+
 PIONEER INTERNATIONAL UNIVERSITY
+
 Certificate in Information Technology | 2016 September - 2016 December
+
 Muranga road Nairobi, Kenya.
+
 TIGONI SECONDARY SCHOOL
+
 Kenya Certificate of Secondary Education (KCSE) | 2012 – 2015 Limuru, Kenya.
+
 MANGUO PRIMARY SCHOOL
+
 Kenya Certificate of Primary Education (KCPE) | 2003 - 2011 Limuru, Kenya.
 
 
 
 PROFESSIONAL EXPERIENCE 
+
 MAWINGU NETWORKS
+
 NETWORK ENGINEER AND SUPPORT INTERN
+
 May 2024 – To date
 Duties and responsibilities
 •	Installing, configuring, and maintaining network equipment including routers, switches, and firewalls in diverse client environments.
