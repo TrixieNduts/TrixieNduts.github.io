@@ -16,7 +16,7 @@ To begin, let's define what Linux is. Linux is an operating system, just like Wi
 
 What to learn in this module.
 
-1 .Linux structure
+1. Linux structure
 2. Using the shell
 3. Navigating the Linux operating system
 4. Working with files and directories
