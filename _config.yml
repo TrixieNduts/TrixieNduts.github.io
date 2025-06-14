@@ -74,8 +74,8 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
