@@ -1,7 +1,6 @@
 ---
-title: "Posts by labs"
+title: "Posts by Labs"
 permalink: /Labs/
-
 ---
 Lab 1
 
