@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /contacts/
+title: "contacts"
 ---
 
 email: annabeat08@gmail.com
