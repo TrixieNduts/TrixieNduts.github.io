@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 CURRICULUM VITAE
-
+---
 PERSONAL INFORMATION
 
 NAME: BEATRICE NDUTA NGATHO
