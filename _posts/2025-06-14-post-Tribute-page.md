@@ -7,5 +7,5 @@ tags:
   - page
 ---
 Below is a link to a project I did last year on tribute page design
-<a href="https://github.com/TrixieNduts/Tribute_page)"></a>
+<cite><a href="https://github.com/TrixieNduts/Tribute_page.html)"></a></cite>
 
