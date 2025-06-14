@@ -4,20 +4,20 @@ permalink: /Labs/
 ---
 Lab 1
 
-[This is an external link to tryhackme.com/room/introwebapplicationsecurity](https://tryhackme.com/room/introwebapplicationsecurity)
+[This is an external link to tryhackme.com](https://tryhackme.com/room/introwebapplicationsecurity)
 
 Lab 2
 
-https://tryhackme.com/room/defensivesecurityintro
+[This is an external link to tryhackme.com](https://tryhackme.com/room/defensivesecurityintro)
 
 Lab 3
 
-https://tryhackme.com/room/offensivesecurityintro
+[This is an external link to tryhackme.com](https://tryhackme.com/room/offensivesecurityintro)
 
 Lab 4
 
-https://tryhackme.com/room/dnsindetail
+[This is an external link to tryhackme.com](https://tryhackme.com/room/dnsindetail)
 
 Lab 5
 
-https://tryhackme.com/room/pythonbasics
+[This is an external link to tryhackme.com](https://tryhackme.com/room/pythonbasics)
